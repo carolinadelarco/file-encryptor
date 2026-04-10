@@ -1,6 +1,6 @@
 # File Encryptor
 
-A Java command-line application that encrypts and decrypts files using AES-256, one of the most secure encryption standards used in banking, messaging apps and government systems.
+A Java command-line application that encrypts and decrypts files using AES-256.
 
 ## What it does
 
